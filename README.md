@@ -49,4 +49,4 @@ Welcome to the Python Typing Game! This engaging game challenges you to type the
     <img src="https://github.com/zacntk/Typing-Game/blob/main/readme-img/GameEnd.png" alt="Game End" />
     <br>
 
-Enjoy playing and improving your typing speed with the Python Typing Game!
+⌨️🏎 Enjoy playing and improving your typing speed with the Python Typing Game! 🏎⌨️
