@@ -23,3 +23,17 @@
 <br>
 
 ## HOW TO PLAY
+1.  Enter name for save score:
+    ![Logo]([https://github.com/yourusername/yourrepository/raw/main/assets/logo.png](https://github.com/zacntk/Typing-Game/blob/main/readme-img/EnterName.png))
+2.  Switch to the code folder:
+    ```
+    cd Typing-Game
+    ```
+3.  Download the required libraries:
+    ```
+    pip install -r requirements.txt
+    ```
+4.  Open the game by:
+    ```
+    python all_start.py
+    ```
