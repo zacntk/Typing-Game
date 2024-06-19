@@ -1,8 +1,8 @@
-# Python Typing Game
+# Python Typing Game ⌨️
 
 Welcome to the Python Typing Game! This engaging game challenges you to type the words appearing on the screen to defeat aliens. Built with Python and leveraging libraries such as `random`, `socket`, `threading`, `time`, and `pygame`, this game offers an exciting way to improve your typing skills.
 
-## How to Run
+## How to Run 🗒
 
 1. **Clone the repository:**
     ```bash
@@ -21,7 +21,7 @@ Welcome to the Python Typing Game! This engaging game challenges you to type the
     python all_start.py
     ```
 
-## How to Play
+## How to Play 🕹
 
 1. **Enter your name and press Enter to save your score:**
     <br>
