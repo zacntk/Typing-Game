@@ -1,7 +1,7 @@
 <h1>Python Typing Game</h1>
 <p>This game is a game of typing the words that appear on the screen to defeat aliens using the Python language with libraries random, socket, threading, time, pygame and Server.</p>
-<br>
 
+<br>
 ## HOW TO RUN
 1.  Clone the code locally using:
     ```
@@ -19,4 +19,8 @@
     ```
     python all_start.py
     ```
-    
+
+<br>
+## HOW TO PLAY
+1.  Enter your name for save score:
+    <a href=""><img src="https://img.shields.io/github/zacntk/Typing-Game/imgForReadme/EnterName" alt=""/></a>
