@@ -20,7 +20,3 @@
     python all_start.py
     ```
 
-<br>
-## HOW TO PLAY
-1.  Enter your name for save score:
-    <a href=""><img src="https://img.shields.io/github/zacntk/Typing-Game/imgForReadme/EnterName" alt=""/></a>
